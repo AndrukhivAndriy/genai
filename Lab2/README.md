@@ -23,3 +23,10 @@ Results:
  * hidden neuro layer = 64
 
  ![success](image-2.png)
+
+ ### And the last one 
+
+ * epochs = 2
+ * hidden neuro layer = 64
+ 
+ ![alt text](image-3.png)
