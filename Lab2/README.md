@@ -8,4 +8,18 @@ In this Lab i am not using matplotlib for visualization. Instead of - i am using
 
 Results:
 
-![alt text](image.png)
+![exper 1](image.png)
+
+### Second experiment
+
+ * epochs = 4
+ * hidden neuro layer = 32
+
+![exper2](image-1.png)
+
+### Third experiment
+
+ * epochs = 4
+ * hidden neuro layer = 64
+
+ ![success](image-2.png)
